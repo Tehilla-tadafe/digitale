@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@cometchat-pro/chat": "^2.1.5",
+    "@pusher/push-notifications-web": "^1.1.0"
+  },
+  "name": "digital-em",
+  "version": "1.0.0",
+  "main": "w3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
